@@ -1,0 +1,26 @@
+﻿to,from,color
+Población,root,#C0392B
+Estudios,root,#FF847C
+Participación,root,#019875
+Actividad,root,#99B898
+Población_Total nacional,Población,#FF847C
+Población_Urbano,Población,#FF847C
+Población_Distrito Central,Población,#FF847C
+Población_San Pedro Sula,Población,#FF847C
+Población_Rural,Población,#FF847C
+Estudios_Total nacional,Estudios,#99B898
+Estudios_Urbano,Estudios,#99B898
+Estudios_Distrito Central,Estudios,#99B898
+Estudios_San Pedro Sula,Estudios,#99B898
+Estudios_Rural,Estudios,#99B898
+Participación_Total nacional,Participación,#019875
+Participación_Urbano,Participación,#019875
+Participación_Distrito Central,Participación,#019875
+Participación_San Pedro Sula,Participación,#019875
+Participación_Rural,Participación,#019875
+Actividad_Agricultura,Actividad,#C0392B
+Actividad_Industria,Actividad,#C0392B
+Actividad_Comercio,Actividad,#C0392B
+Actividad_Act. de alojamiento,Actividad,#C0392B
+Actividad_Enseñanza,Actividad,#C0392B
+Actividad_Otras,Actividad,#C0392B

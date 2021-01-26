@@ -1,0 +1,27 @@
+﻿node,levels,categoria,dominio,numero
+root,1,,,
+Población,2,,,
+Estudios,2,,,
+Participación,2,,,
+Actividad,2,,,
+Población_Total nacional,3,Población,Total nacional,51.7
+Población_Urbano,3,Población,Urbano,56.8
+Población_Distrito Central,3,Población,Distrito Central,11.8
+Población_San Pedro Sula,3,Población,San Pedro Sula,7
+Población_Rural,3,Población,Rural,43.2
+Estudios_Total nacional,3,Estudios,Total nacional,7.3
+Estudios_Urbano,3,Estudios,Urbano,8.3
+Estudios_Distrito Central,3,Estudios,Distrito Central,9.5
+Estudios_San Pedro Sula,3,Estudios,San Pedro Sula,8.7
+Estudios_Rural,3,Estudios,Rural,5.7
+Participación_Total nacional,3,Participación,Total nacional,41.4
+Participación_Urbano,3,Participación,Urbano,46.8
+Participación_Distrito Central,3,Participación,Distrito Central,48.6
+Participación_San Pedro Sula,3,Participación,San Pedro Sula,49
+Participación_Rural,3,Participación,Rural,33.9
+Actividad_Agricultura,3,Actividad,Agricultura,7.8
+Actividad_Industria,3,Actividad,Industria,16.5
+Actividad_Comercio,3,Actividad,Comercio,25.8
+Actividad_Act. de alojamiento,3,Actividad,Act. de alojamiento,30.5
+Actividad_Enseñanza,3,Actividad,Enseñanza,6.2
+Actividad_Otras,3,Actividad,Otras,26.9
