@@ -1,23 +1,33 @@
+---
+output: github_document
+---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  warning = F, 
+  message = F, 
+  error = F,
+  fig.path = "figures/README-",
+  out.width = "100%"
+)
+```
+
 # Data visualization
 
-Una colección de visualizaciones y código de gráficos hechos con R. A
-continuación se proporciona una lista de las visualizaciones:
+Una colección de visualizaciones y código de gráficos hechos con R. A continuación se proporciona una lista de las visualizaciones:
 
 ### Mapa Covid-19 del total de casos confirmados: [código](map_covid19_dept_hn)
-
 ![Mapa Covid-19](map_covid19_dept_hn/map_hn.png)
 
 ### Covid-19 en Centroamérica: [código](line_covid19_ca)
-
 ![Covid-19 en Centroamérica](line_covid19_ca/line_sta.png)
 
 ### Caraterísticas de las mujeres en Honduras: [código](woman_hn)
-
 ![Caraterísticas de las mujeres en Honduras](woman_hn/woman.png)
 
 ### Crecimiento del PIB Honduras 2000-2020: [código](pib_hn)
-
 ![Crecimiento del PIB: Honduras 2000-2020](pib_hn/pib.png)
